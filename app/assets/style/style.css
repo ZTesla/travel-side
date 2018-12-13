@@ -8,4 +8,6 @@
 @import "modules/_page-section";
 @import "modules/_headlines";
 @import "modules/_row";
-@import "modules/_generic-content-cotainer"
+@import "modules/_generic-content-cotainer";
+@import "modules/_section-title";
+@import "modules/_feature-item";
